@@ -7,7 +7,7 @@ It uses the power of Convolutional Neural Networks (CNNs) to classify a brain MR
 * No tumor
 * Pituitary tumor
 * Meningioma tumor
-* Glioma tumor.
+* Glioma tumor
 
 **Features**
 * Upload an MRI image and the app will classify it into one of the four categories.
