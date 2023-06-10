@@ -1,7 +1,13 @@
 **NeuroSense**
 
 
-NeuroSense is a user-friendly web application built with Python, Streamlit, and Tensorflow. It uses the power of Convolutional Neural Networks (CNNs) to classify a brain MRI into one of four classes: No tumor, Pituitary tumor, Meningioma tumor, or Glioma tumor.
+NeuroSense is a user-friendly web application built with Python, Streamlit, and Tensorflow. 
+
+It uses the power of Convolutional Neural Networks (CNNs) to classify a brain MRI into one of four classes: 
+* No tumor
+* Pituitary tumor
+* Meningioma tumor
+* Glioma tumor.
 
 **Features**
 * Upload an MRI image and the app will classify it into one of the four categories.
