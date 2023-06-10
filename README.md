@@ -16,10 +16,10 @@ NeuroSense is a user-friendly web application built with Python, Streamlit, and 
 * Matplotlib
 
 **Dependencies**
-pip install -r requirements.txt
+* pip install -r requirements.txt
 
 **Run**
-streamlit run app.py
+* streamlit run app.py
 
 
 **Problem Statement:
