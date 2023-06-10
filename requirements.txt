@@ -1,0 +1,7 @@
+h5py==2.10.0
+tensorflow==2.3.0
+streamlit==0.77.0
+Pillow==8.1.0
+opencv-python==4.5.1.48
+numpy
+matplotlib==3.3.4
